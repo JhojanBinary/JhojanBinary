@@ -3,13 +3,11 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-<p align="center"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 ## My tech stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,flask,git,github,mysql,npm,notion&aws=4)](https://skillicons.dev)
 
 
-
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 
