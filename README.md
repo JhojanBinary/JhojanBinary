@@ -1,4 +1,4 @@
-# Hey there! I'm Jhojan Binary, a software engineer specializing in web development, dedicated to crafting pixel-perfect interfaces and immersive user experiences.👋
+# <small style="font-size: 12px;">Hey there! I'm Jhojan Binary, a software engineer specializing in web development, dedicated to crafting pixel-perfect interfaces and immersive user experiences.👋</small>
 
 <p align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
