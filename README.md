@@ -3,7 +3,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="center"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## My tech stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,flask,git,github,mysql,npm,notion&aws=4)](https://skillicons.dev)
@@ -35,7 +35,7 @@
 
  
 -----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JhojanBinary=anuraghazra&show_icons=true&theme=ocean_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhojanBinary&show_icons=true&theme=ocean_dark)
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
