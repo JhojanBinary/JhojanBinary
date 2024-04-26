@@ -1,4 +1,4 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hey there! I'm Jhojan Binary, a software engineer specializing in web development, dedicated to crafting pixel-perfect interfaces and immersive user experiences.👋
 
 <p align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
@@ -23,12 +23,7 @@
   <a href="#" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Viral Bhadeshiya" height="30" width="40">
   </a>
-  <a href="#" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Viral Bhadeshiya" height="30" width="40">
-  </a>
-  <a href="#" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" alt="Viral Bhadeshiya" height="30" width="auto">
-  </a>
+
 </p>
 
 <p align="center">
