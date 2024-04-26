@@ -31,12 +31,3 @@
   </a>
 </p>
 
------
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhojanBinary&show_icons=true&theme=ocean_dark">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-</p>
