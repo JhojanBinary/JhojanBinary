@@ -82,7 +82,8 @@
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
 </p>
-
+<p aling= "center">
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lmxkd2hzdcpunhfucjvmmh5epy&cover_image=true&theme=default&show_offline=false&background_color=3b0c73&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</p>
 -----
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -92,5 +93,4 @@
   <br>
  </p>
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lmxkd2hzdcpunhfucjvmmh5epy&cover_image=true&theme=default&show_offline=false&background_color=3b0c73&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
