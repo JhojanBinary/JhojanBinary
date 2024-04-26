@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## My tech stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,flask,git,github,mysql,npm,notion,aws&=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,flask,git,github,mysql,npm,notion&aws=3)](https://skillicons.dev)
 
 
 
@@ -35,12 +35,11 @@
 
  
 -----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JhojanBinary=anuraghazra&show_icons=true&theme=ocean_dark)
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Jhojanbinary&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JhojanBinary&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
- </p>
+</p>
 
 
