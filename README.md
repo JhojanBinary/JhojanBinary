@@ -5,7 +5,7 @@
 
 ## My tech stack
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,flask,git,github,mysql,npm,notion&aws=4">
+  <a href="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,flask,git,github,sql,npm,htpp,api,notion&aws=4">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,flask,git,github,mysql,npm,notion&aws=4">
   </a>
 </p>
