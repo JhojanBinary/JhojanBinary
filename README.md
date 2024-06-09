@@ -5,8 +5,8 @@
 
 ## My tech stack
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=typescript,react,bootstrap,tailwindcss,css,py,flask,git,github,npm,sqlalchemy&aws=4">
-    <img src="https://skillicons.dev/icons?i=typescript,react,bootstrap,tailwindcss,css,py,flask,git,github,npm,sqlalchemy&aws=4">
+  <a href="https://skillicons.dev/icons?i=typescript,react,bootstrap,tailwindcss,css,py,flask,git,github,npm,postgresql&aws=4">
+    <img src="https://skillicons.dev/icons?i=typescript,react,bootstrap,tailwindcss,css,py,flask,git,github,npm,postgresql&aws=4">
   </a>
 </p>
 
